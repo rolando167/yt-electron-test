@@ -1,0 +1,46 @@
+16/10/2021
+--------------------
+https://www.electronjs.org/es/docs/latest/tutorial/quick-start
+
+--------------------
+Yt:
+https://www.youtube.com/watch?v=7MCvUsrFryc&list=PLIyua1a92yWe9ZDpyV1hegSyxJjAXQf5v&index=14&t=6s
+
+
+Crear una aplicacion de escritorio con Javascript - aprender Electron Js - Super facil y rapido 2021
+--------------------
+Crear carpeta e ingresar desde CMD:
+
+> mkdir my-electron-app
+
+--------------------
+
+> npm install --save-dev electron
+
+--------------------
+
+Agregar en scripts de package.json
+
+"start": "electron ."
+
+--------------------
+
+Crear archivo main.js
+
+--------------------
+
+
+--------------------
+
+Repo de ejempo basico:
+
+https://github.com/SergioRibera/electron-quick-start
+
+--------------------
+-- Con login
+https://www.youtube.com/watch?v=5reiaZxoyBU
+
+https://seclicker.blogspot.com/2021/05/electron-project-main.html
+--------------------
+--------------------
+--------------------
